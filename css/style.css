@@ -1,0 +1,139 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+.first {
+	height: 800px;
+	width: 100%;
+	background-color: lightgrey;
+	
+}
+
+.con1 {
+	height:800px;
+	width: 449px;
+	background-color: lightyellow;
+	float: left;
+	border-top-left-radius: 200px;
+	border-bottom-right-radius: 200px;
+
+	
+}
+
+.second {
+	height:800px;
+	width: 100%;
+	background-color: lightgrey;
+	float: left;
+}
+
+.img1 {
+	height: 800px;
+	width: 900px;
+	background-color: limegreen;
+	float: left;
+	background-image: url(../image/manali1.jpg);
+}
+
+.img2 {
+	height: 800px;
+	width: 900px;
+	background-color: greenyellow;
+	float: left;
+	background-image: url(../image/tajmahel.jpg);
+}
+
+.con2 {
+	height: 800px;
+	width: 449px;
+	background-color:lightyellow;
+	float: right;
+	border-top-left-radius: 200px;
+	border-bottom-right-radius: 200px;
+
+}
+
+
+
+
+
+.smallimg {
+	height: 150px;
+	width: 150px;
+	background-color: red;
+	position:relative;
+	top: 100px;
+	left: 150px;
+/*	background-image: url(../image/img4.jpg);*/
+
+	
+	
+	
+}
+
+.title {
+	height: 30px;
+	width: 360px;
+	position: relative;
+	top: 50px;
+	left: 70px;
+	font-family: arial;
+	font-size: 30px;
+	color: lightslategrey;
+	text-shadow: 0 1px 30px 1px black;
+	text-align: center;
+	text-shadow: 2px 2px #c6d7e8;	
+}
+.p {
+	height: 300px;
+	width: 350px;
+	color:slategrey;
+	position: relative;
+	top: 100px;
+	left: 50px;
+	font-family: arial;
+	font-size: 25px;
+	text-align: justify;
+}
+
+
+.name {
+	height: 50px;
+	width: 430px;
+	float: right;
+	position: relative;
+	right: 5px;
+	top: 20px;
+	color: lightblue;
+	font-family: arial;
+	font-size: 35px;
+	text-shadow: 2px 2px #20afde;
+	
+}
+
+.tex {
+	height: 100px;
+	width: 300px;
+	background-color: red;
+	float: right;
+	
+}
+
+p {
+	
+}
+
+.name2 {
+	height: 50px;
+	width: 430px;
+	float: left;
+	position: relative;
+	top: 20px;
+	left: 10px;
+	color: sandybrown;
+	font-family: arial;
+	font-size: 35px;
+	text-shadow: 2px 2px #cdb097;
+
+}
